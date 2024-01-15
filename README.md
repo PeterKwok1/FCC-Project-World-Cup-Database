@@ -1,5 +1,4 @@
 # To Do
-Rename db to worldcup for dump
 Create db
   CREATE TABLE games (year date, round varchar(30), winner varchar(30), opponent varchar(30), winner_goals int, opponent_goals int);  
 Insert data
